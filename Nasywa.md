@@ -3,3 +3,4 @@
 - Nama : Hanifatun Nasywa
 - NIM : 11261027
 - Program Studi : Informatika
+- Kontribusi : mencoba memahami
